@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "sMNS",
+    "Name": "SlasherMNS",
+    "FullVersion": "2.4.004",
+    "FullUrl": "https://github.com/iSkromny/D2launcher/releases/download/smns2.4.004/slasher_mns_2_4_004.7z",
+    "PatchVersion": "null",
+    "PatchUrl": "null"
+  },
+  {
+    "Id": "Мод Норвежской Семги",
+    "Name": "Мод Норвежской Семги",
+    "FullVersion": null,
+    "FullUrl": null,
+    "PatchVersion": null,
+    "PatchUrl": null
+  }
+  {
+    "Id": "Nazar",
+    "Name": "Nazar Mod",
+    "FullVersion": null,
+    "FullUrl": null,
+    "PatchVersion": null,
+    "PatchUrl": null
+  },
+  {
+    "Id": "RotE",
+    "Name": "Disciples II Total Rebalance",
+    "FullVersion": null,
+    "FullUrl": null,
+    "PatchVersion": null,
+    "PatchUrl": null
+  }
+]
