@@ -6,7 +6,7 @@
     "FullUrl": "https://github.com/iSkromny/D2launcher/releases/download/smns2.4.004zip/slasher_mns_2_4.zip",
     "PatchVersion": null,
     "PatchUrl": null,
-    "MirrorUrl": "https://huggingface.co/buckets/berkut/d2_slasher_mini/resolve/main/slasher_mns_2_4_min.tar.gz"
+    "MirrorUrl": "https://huggingface.co/buckets/berkut/d2_slasher_mini/resolve/slasher_mns_2_4_min.tar.gz?download=true"
   },
   {
     "Id": "Мод Норвежской Семги",
