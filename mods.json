@@ -5,7 +5,8 @@
     "FullVersion": "2.4.004",
     "FullUrl": "https://github.com/iSkromny/D2launcher/releases/download/smns2.4.004zip/slasher_mns_2_4.zip",
     "PatchVersion": null,
-    "PatchUrl": null
+    "PatchUrl": null,
+    "MirrorUrl": "https://huggingface.co/buckets/berkut/d2_slasher_mini/resolve/main/slasher_mns_2_4_min.tar.gz"
   },
   {
     "Id": "Мод Норвежской Семги",
@@ -13,7 +14,8 @@
     "FullVersion": "1.44a",
     "FullUrl": null,
     "PatchVersion": null,
-    "PatchUrl": null
+    "PatchUrl": null,
+    "MirrorUrl": null
   },
   {
     "Id": "Nazar Mod",
@@ -21,7 +23,8 @@
     "FullVersion": "v1.04",
     "FullUrl": null,
     "PatchVersion": null,
-    "PatchUrl": null
+    "PatchUrl": null,
+    "MirrorUrl": null
   },
   {
     "Id": "RotE",
@@ -29,6 +32,7 @@
     "FullVersion": "0.91",
     "FullUrl": null,
     "PatchVersion": null,
-    "PatchUrl": null
+    "PatchUrl": null,
+    "MirrorUrl": null
   }
 ]
